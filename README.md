@@ -14,3 +14,8 @@ To enable students to view their daily and weekly lecture schedules.
 To provide automatic reminders and notifications before lectures begin.
 To display important lecture information such as course codes, course titles, venues and lecturers' names.
 To reduce the chances of students missing lectures due to forgetfulness.
+
+The users or students would be able to access the Lecture Timetable and Reminder WebApp that is designed and implemented on the server link or url below.
+rococo-narwhal-025d1d.netlify.app
+
+
